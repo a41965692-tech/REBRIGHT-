@@ -1,0 +1,9 @@
+{
+  "name": "Copy of REBRIGHT.ai",
+  "description": "Next-generation AI Research & Conversation Assistant with integrated image generation, video creation, and real-time audio/visual capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
